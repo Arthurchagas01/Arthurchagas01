@@ -1,4 +1,4 @@
-<h1>Hi, I'm Arthur! <br/><a href="https://github.com/arthurchagas01">Programmer</a>, <a href="https://www.linkedin.com/in/arthur-chagas-72842a4a">Operational Analyst</a>
+<h1>Hi, I'm Arthur! <br/><a href="https://github.com/arthurchagas01">Programmer</a> and <a href="https://www.linkedin.com/in/arthur-chagas-72842a4a">Operational Analyst</a>
 <!--
 <h2>👨‍💻 Software Development Projects:</h2>
 -->
