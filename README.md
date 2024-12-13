@@ -35,6 +35,8 @@
 
 [linkedIn]: https://linkedin.com/in/arthur-chagas-72842a4a
 
+
+- ⚡ Fun fact: Loving Hogwarts Legacy!!!!! 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
