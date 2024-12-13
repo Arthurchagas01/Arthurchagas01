@@ -31,7 +31,6 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [linkedIn]: https://linkedin.com/in/arthur-chagas-72842a4a
