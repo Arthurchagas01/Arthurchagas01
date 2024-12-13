@@ -1,4 +1,4 @@
-<h1>Hi, I'm Arthur! <br/><a href="https://github.com/arthurchagas01">Developer</a> and <a href="https://www.linkedin.com/in/arthur-chagas-72842a4a">Operational Analyst</a>
+<h1>Hi, I'm Arthur! <br/><a href="https://github.com/arthurchagas01">Developer</a>
 <!--
 <h2>👨‍💻 Software Development Projects:</h2>
 -->
@@ -31,9 +31,7 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="arthurchagas | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-[linkedIn]: https://linkedin.com/in/arthur-chagas-72842a4a
+[linkedIn](https://linkedin.com/in/arthur-chagas-72842a4a)
 
 
 - ⚡ Fun fact: Loving Hogwarts Legacy!!!!! 
