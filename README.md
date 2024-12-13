@@ -1,4 +1,4 @@
-<h1>Hi, I'm Arthur! <br/><a href="https://github.com/arthurchagas01">Programmer</a> and <a href="https://www.linkedin.com/in/arthur-chagas-72842a4a">Operational Analyst</a>
+<h1>Hi, I'm Arthur! <br/><a href="https://github.com/arthurchagas01">Developer</a>
 <!--
 <h2>👨‍💻 Software Development Projects:</h2>
 -->
@@ -23,10 +23,11 @@
 
 - <b>Chatbot for Reconciliation Process Project </b>
   - [Chatbot for Reconciliation Process](https://github.com/Arthurchagas01/Chatbot-for-Reconciliation-Process-Project.git)
+  - [Email service for Uber code challege](https://github.com/Arthurchagas01/email-service-uber)
+  - [The simple form of a payment system](https://github.com/Arthurchagas01/pic-pay-simplificado)
+  - [Node API](https://github.com/Arthurchagas01/Node-API)
+  - [School Management System](https://github.com/Arthurchagas01/school-management-system-python)
 
-<h2>📄 Certifications</h2>
-
-- [PowerBI](https://mycourse.app/AMey4qzeV6su9N3R9)
 
 <h2> 🤳 Connect with me:</h2>
 
