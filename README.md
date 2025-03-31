@@ -34,18 +34,16 @@ I specialize in:
 ---
 
 ## 🛠️ Projects
-<!--
+
 ### **🔹 Backend Projects**
-- **[Automation Service](#)** - Automated email and data processing using FastAPI, SMTP, and Pandas.
-- **[Order Management System](#)** - Microservice-based system for handling orders, built with FastAPI and PostgreSQL.
-- **[Investment Portfolio Reconciliation](#)** - Automated reconciliation of financial data using Pandas and SQL.
--->
+- **[Email Provider Service - AWS/SendGrid](https://github.com/Arthurchagas01/email-service-uber)** - A reliable email service implementing provider failover with Amazon SES and Twilio SendGrid, built using Python and FastAPI, following Clean Architecture principles.
+
 <!-- ### **🎨 Frontend Projects**
 - **[Dynamic Web Dashboard](#)** - Interactive dashboard for data visualization using React.
 - **[E-commerce Platform](#)** - Full-stack e-commerce system with React and FastAPI.
 -->
 🖥️ **Live Websites:**
-- [Portfolio Website for a Woodworking Business](https://arthurchagas01.github.io/marcenaria-portfolio-custom-woodworking-website-react/) - Showcase of custom woodworking projects.
+- **[Portfolio Website for a Woodworking Business](https://arthurchagas01.github.io/marcenaria-portfolio-custom-woodworking-website-react/)** - Showcase of custom woodworking projects.
 
 ---
 
