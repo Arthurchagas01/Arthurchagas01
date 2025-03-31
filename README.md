@@ -39,7 +39,7 @@ I specialize in:
 - **[Email Provider Service - AWS/SendGrid](https://github.com/Arthurchagas01/email-service-uber)** - A reliable email service implementing provider failover with Amazon SES and Twilio SendGrid, built using Python and FastAPI, following Clean Architecture principles.
 
 ### **🎨 Frontend Projects**
-- **[Minimalist Pokedéx]((https://github.com/Arthurchagas01/js-developer-pokedex))** - A minimalist Pokédex built with JavaScript, HTML, and CSS, displaying essential Pokémon information.
+- **[Pokedéx](https://github.com/Arthurchagas01/js-developer-pokedex)** - A minimalist Pokédex built with JavaScript, HTML, and CSS, fetching data from the Pokémon V2 API to display essential Pokémon information with a clean and intuitive design.
   
 🖥️ **Live Websites:**
 - **[Portfolio Website for a Woodworking Business](https://arthurchagas01.github.io/marcenaria-portfolio-custom-woodworking-website-react/)** - Showcase of custom woodworking projects.
