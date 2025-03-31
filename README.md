@@ -1,51 +1,61 @@
-<h1>Hi, I'm Arthur! <br/><a href="https://github.com/arthurchagas01">Developer</a>
+# 👋 Welcome to My GitHub!
+
+## 🏆 About Me
+I'm a **Software Engineer** with a strong background in **backend development, automation, and system integrations**. My expertise includes **Python (FastAPI, Django, Pandas, Selenium, Requests)** and **JavaScript (React for frontend development)**. Additionally, I have experience with **C#/.NET**, having completed a bootcamp focused on backend development. 
+
+I specialize in:
+- **Backend Development:** Creating scalable and efficient APIs and automation systems.
+- **Frontend Development:** Building web applications using **React (JavaScript)**.
+- **Automation & Data Processing:** Using **Python (Pandas, Selenium, SMTP)** to streamline workflows.
+- **System Integrations:** Leveraging APIs and microservices for seamless communication.
+
+---
+
+## 🚀 Technologies & Tools
+
+### **Languages & Frameworks**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### **Databases & Cloud**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+### **Other Tools**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+## 🛠️ Projects
 <!--
-<h2>👨‍💻 Software Development Projects:</h2>
+### **🔹 Backend Projects**
+- **[Automation Service](#)** - Automated email and data processing using FastAPI, SMTP, and Pandas.
+- **[Order Management System](#)** - Microservice-based system for handling orders, built with FastAPI and PostgreSQL.
+- **[Investment Portfolio Reconciliation](#)** - Automated reconciliation of financial data using Pandas and SQL.
 -->
-<!--
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+<!-- ### **🎨 Frontend Projects**
+- **[Dynamic Web Dashboard](#)** - Interactive dashboard for data visualization using React.
+- **[E-commerce Platform](#)** - Full-stack e-commerce system with React and FastAPI.
 -->
-<h2>👨‍💻 Software Development Projects:</h2>
+🖥️ **Live Websites:**
+- [Portfolio Website for a Woodworking Business](https://arthurchagas01.github.io/marcenaria-portfolio-custom-woodworking-website-react/) - Showcase of custom woodworking projects.
 
-- <b>Chatbot for Reconciliation Process Project </b>
-  - [Chatbot for Reconciliation Process](https://github.com/Arthurchagas01/Chatbot-for-Reconciliation-Process-Project.git)
-  - [Email service for Uber code challege](https://github.com/Arthurchagas01/email-service-uber)
-  - [The simple form of a payment system](https://github.com/Arthurchagas01/pic-pay-simplificado)
-  - [Node API](https://github.com/Arthurchagas01/Node-API)
-  - [School Management System](https://github.com/Arthurchagas01/school-management-system-python)
+---
 
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arthurchagas01&show_icons=true&theme=dark)
 
-<h2> 🤳 Connect with me:</h2>
+---
 
-[linkedIn](https://linkedin.com/in/arthur-chagas-72842a4a)
+## 📬 Get in Touch
+- **LinkedIn:** [Arthur Chagas](https://www.linkedin.com/in/arthur-chagas-72842a4a/)
+- **Email:** arthurchagas01@gmail.com
 
-
-- ⚡ Fun fact: Loving Hogwarts Legacy!!!!! 
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 *Always open to collaborations and new opportunities!* 🚀
