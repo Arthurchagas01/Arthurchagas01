@@ -37,6 +37,7 @@ I specialize in:
 
 ### **🔹 Backend Projects**
 - **[Email Provider Service - AWS/SendGrid](https://github.com/Arthurchagas01/email-service-uber)** - A reliable email service implementing provider failover with Amazon SES and Twilio SendGrid, built using Python and FastAPI, following Clean Architecture principles.
+- **[Simplified Money Transfer System](https://github.com/Arthurchagas01/simplified-picpay-money-transfer-python)** - A simplified transfer system inspired by PicPay, developed in Python with FastAPI and PostgreSQL, enabling transactions between users with balance validation and external authorization.
 
 ### **🎨 Frontend Projects**
 - **[Pokedéx](https://github.com/Arthurchagas01/js-developer-pokedex)** - A minimalist Pokédex built with JavaScript, HTML, and CSS, fetching data from the Pokémon V2 API to display essential Pokémon information with a clean and intuitive design.
