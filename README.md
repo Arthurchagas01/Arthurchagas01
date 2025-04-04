@@ -44,7 +44,7 @@ I specialize in:
 - **[PSN Store Replica](https://github.com/Arthurchagas01/angular-psn-store)** - This project is a visual replica of the PlayStation Store (PSN), built with Angular to demonstrate UI development and component structure.
   
 🖥️ **Live Websites:**
-- **[Portfolio Website for a Woodworking Business](https://arthurchagas01.github.io/marcenaria-portfolio-custom-woodworking-website-react/)** - Showcase of custom woodworking projects.
+- **[Portfolio Website for a Woodworking Business](https://arthurchagas01.github.io/portfolio-custom-woodworking-website-react/)** - Showcase of custom woodworking projects.
 
 ---
 
