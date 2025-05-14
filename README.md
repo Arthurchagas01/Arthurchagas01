@@ -30,31 +30,8 @@ I specialize in:
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
----
-
-## 🛠️ Projects
-
-### **🔹 Backend Projects**
-- **[Email Provider Service - AWS/SendGrid](https://github.com/Arthurchagas01/email-service-uber)** - A reliable email service implementing provider failover with Amazon SES and Twilio SendGrid, built using Python and FastAPI, following Clean Architecture principles.
-- **[Simplified Money Transfer System](https://github.com/Arthurchagas01/simplified-picpay-money-transfer-python)** - A simplified transfer system inspired by PicPay, developed in Python with FastAPI and PostgreSQL, enabling transactions between users with balance validation and external authorization.
-
-### **🎨 Frontend Projects**
-- **[Pokedéx](https://github.com/Arthurchagas01/js-developer-pokedex)** - A minimalist Pokédex built with JavaScript, HTML, and CSS, fetching data from the Pokémon V2 API to display essential Pokémon information with a clean and intuitive design.
-- **[PSN Store Replica](https://github.com/Arthurchagas01/angular-psn-store)** - This project is a visual replica of the PlayStation Store (PSN), built with Angular to demonstrate UI development and component structure.
-  
-🖥️ **Live Websites:**
-- **[Portfolio Website for a Woodworking Business](https://arthurchagas01.github.io/portfolio-custom-woodworking-website-react/)** - Showcase of custom woodworking projects.
-
----
-
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arthurchagas01&show_icons=true&theme=dark)
-
 ---
 
 ## 📬 Get in Touch
 - **LinkedIn:** [Arthur Chagas](https://www.linkedin.com/in/arthur-chagas-72842a4a/)
 - **Email:** arthurchagas01@gmail.com
-
-💡 *Always open to collaborations and new opportunities!* 🚀
